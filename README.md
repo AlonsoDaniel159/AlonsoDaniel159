@@ -1,85 +1,136 @@
-# Alonso Daniel
+<div align="center">
+  <h1>👋 Hola, Soy Alonso Daniel</h1>
+  <h3>Android Developer | Kotlin Enthusiast</h3>
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](TU_LINKEDIN)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:TU_EMAIL)
+  [![GitHub](https://img.shields.io/badge/GitHub-181717? style=for-the-badge&logo=github&logoColor=white)](https://github.com/AlonsoDaniel159)
 
-## Android Developer | Kotlin Enthusiast
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](TU_LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:TU_EMAIL)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/AlonsoDaniel159)
-
----
-
-### 👨‍💻 Sobre Mí
-
-Desarrollador Android especializado en Kotlin con enfoque en arquitecturas limpias y mejores prácticas.  Apasionado por crear aplicaciones móviles eficientes y mantenibles. 
-
-**Ubicación:** Perú 🇵🇪  
-**Disponibilidad:** Abierto a oportunidades
+</div>
 
 ---
 
-### 🛠️ Tecnologías
+## 👨‍💻 Sobre Mí
 
-**Lenguajes:** Kotlin, Java  
-**Android:** MVVM, Clean Architecture, Material Design  
-**Persistencia:** Room, DataStore, SharedPreferences  
-**Networking:** Retrofit, OkHttp  
-**Asíncrono:** Coroutines, Flow  
-**UI:** XML Layouts, View Binding, RecyclerView  
-**Testing:** JUnit, Espresso  
-**Herramientas:** Git, GitHub, Android Studio, Gradle
+Desarrollador Android apasionado por crear aplicaciones móviles nativas con **Kotlin**. Me especializo en arquitecturas modernas, código limpio y mejores prácticas de desarrollo. 
+
+**📍 Ubicación:** Perú 🇵🇪  
+**💼 Estado:** Buscando oportunidades laborales  
+**🎯 Enfoque:** Clean Code, MVVM, Material Design
 
 ---
 
-### 📱 Proyectos
+## 🛠️ Stack Tecnológico
 
-#### 🗂️ **XML DataStore Manager**
-Aplicación para gestionar listas de países usando DataStore Preferences. 
+### Lenguajes & Frameworks
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
-**Tecnologías:** Kotlin • DataStore • RecyclerView • Coroutines • Material Design
+### Tecnologías Android
+- **Arquitectura:** MVVM, Clean Architecture (en aprendizaje)
+- **UI:** XML Layouts, View Binding, Material Design 3
+- **Listas:** RecyclerView, ListAdapter, DiffUtil
+- **Asíncrono:** Coroutines, Flow, LiveData
+- **Persistencia:** Room, DataStore, SharedPreferences
+- **Networking:** Retrofit, OkHttp, Gson
+- **Navegación:** Navigation Component, Fragments
+- **Inyección:** Hilt/Dagger (en aprendizaje)
 
-**Features:**
-- ✅ Persistencia de datos con DataStore
-- ✅ RecyclerView con ListAdapter y DiffUtil
-- ✅ View Binding para acceso seguro a vistas
-- ✅ Operaciones asíncronas con Coroutines
-- ✅ UI moderna con Material Design
-
-[📂 Ver repositorio](LINK_AL_REPO) | [📥 Descargar APK](LINK_AL_APK)
-
----
-
-#### 📝 **[Tu Proyecto #2]**
-Breve descripción del proyecto.
-
-**Tecnologías:** Kotlin • Room • MVVM • LiveData
-
-[📂 Ver repositorio](LINK) | [📥 Descargar APK](LINK)
+### Herramientas
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
 
 ---
 
-#### 🎯 **[Tu Proyecto #3]**
-Breve descripción del proyecto.
+## 📱 Proyectos Destacados
 
-**Tecnologías:** Kotlin • Retrofit • Glide • Navigation
+### 🗂️ **XML DataStore Manager**
 
-[📂 Ver repositorio](LINK) | [📥 Descargar APK](LINK)
+Aplicación para gestionar listas de países utilizando DataStore Preferences de Jetpack. 
 
----
+**Características:**
+- ✅ Persistencia de datos con DataStore Preferences
+- ✅ RecyclerView optimizado con ListAdapter y DiffUtil
+- ✅ View Binding para acceso type-safe a vistas
+- ✅ Operaciones asíncronas con Kotlin Coroutines
+- ✅ Diseño moderno con Material Design 3
+- ✅ Dialog personalizado para registro de usuario
 
-### 📊 GitHub Stats
+**Tecnologías:** `Kotlin` • `DataStore` • `RecyclerView` • `Coroutines` • `Material Design`
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlonsoDaniel159&show_icons=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlonsoDaniel159&layout=compact)
-
----
-
-### 📫 Contacto
-
-**Email:** tu.email@ejemplo.com  
-**LinkedIn:** [Tu Perfil](TU_LINKEDIN)  
-**GitHub:** [@AlonsoDaniel159](https://github.com/AlonsoDaniel159)
+[![Código](https://img.shields.io/badge/Código-181717?style=for-the-badge&logo=github&logoColor=white)](LINK_AL_REPO)
+[![APK](https://img.shields.io/badge/Descargar_APK-3DDC84?style=for-the-badge&logo=android&logoColor=white)](LINK_AL_APK)
 
 ---
 
-💡 **Abierto a colaboraciones y oportunidades laborales**
+### 📝 **[Proyecto #2]**
+
+Breve descripción de tu segundo proyecto. 
+
+**Características:**
+- ✅ Feature 1
+- ✅ Feature 2
+- ✅ Feature 3
+
+**Tecnologías:** `Kotlin` • `Room` • `MVVM` • `LiveData`
+
+[![Código](https://img.shields.io/badge/Código-181717?style=for-the-badge&logo=github&logoColor=white)](LINK_AL_REPO)
+[![APK](https://img.shields.io/badge/Descargar_APK-3DDC84?style=for-the-badge&logo=android&logoColor=white)](LINK_AL_APK)
+
+---
+
+### 🎯 **[Proyecto #3]**
+
+Breve descripción de tu tercer proyecto.
+
+**Características:**
+- ✅ Feature 1
+- ✅ Feature 2
+- ✅ Feature 3
+
+**Tecnologías:** `Kotlin` • `Retrofit` • `Glide` • `Navigation`
+
+[![Código](https://img.shields.io/badge/Código-181717?style=for-the-badge&logo=github&logoColor=white)](LINK_AL_REPO)
+[![APK](https://img.shields.io/badge/Descargar_APK-3DDC84?style=for-the-badge&logo=android&logoColor=white)](LINK_AL_APK)
+
+---
+
+## 📊 Estadísticas de GitHub
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlonsoDaniel159&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel. app/api/top-langs/? username=AlonsoDaniel159&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
+
+---
+
+## 🎯 Actualmente
+
+- 🔭 **Trabajando en:** Proyectos de portafolio Android
+- 🌱 **Aprendiendo:** Jetpack Compose, Clean Architecture, Testing
+- 👯 **Buscando:** Oportunidades como Android Developer
+- 💬 **Pregúntame sobre:** Kotlin, Android, RecyclerView, Coroutines
+
+---
+
+## 📫 Contacto
+
+¿Tienes un proyecto interesante o una oportunidad laboral? ¡Me encantaría saber de ti! 
+
+📧 **Email:** tu.email@ejemplo.com  
+💼 **LinkedIn:** [Tu Perfil](TU_LINKEDIN)  
+🐙 **GitHub:** [@AlonsoDaniel159](https://github.com/AlonsoDaniel159)
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=AlonsoDaniel159&color=blueviolet&style=flat-square&label=Visitas+al+perfil" alt="Profile views"/>
+  
+  <br><br>
+  
+  ### ⭐ Si te gusta algún proyecto, ¡no olvides dar una estrella! 
+  
+  <sub>💼 Abierto a oportunidades laborales</sub>
+</div>
