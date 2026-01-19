@@ -120,8 +120,6 @@ Breve descripción de tu tercer proyecto.
   <img src="https://komarev.com/ghpvc/?username=AlonsoDaniel159&color=blueviolet&style=flat-square&label=Visitas+al+perfil" alt="Profile views"/>
   
   <br><br>
-  
-  ### ⭐ Si te gusta algún proyecto, ¡no olvides dar una estrella! 
-  
+    
   <sub>💼 Abierto a oportunidades laborales</sub>
 </div>
