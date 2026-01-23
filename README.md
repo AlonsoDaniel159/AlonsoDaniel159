@@ -111,7 +111,7 @@ Breve descripción de tu tercer proyecto.
 ¿Tienes un proyecto interesante o una oportunidad laboral? ¡Me encantaría saber de ti! 
 
 📧 **Email:** alonsodaniel619@gmail.com 
-💼 **LinkedIn:** [Tu Perfil](https://www.linkedin.com/in/alonso-daniel-quispe-huacho-41385a222/)  
+💼 **LinkedIn:** [alonso-daniel-quispe-huacho-41385a222](https://www.linkedin.com/in/alonso-daniel-quispe-huacho-41385a222)  
 🐙 **GitHub:** [@AlonsoDaniel159](https://github.com/AlonsoDaniel159)
 
 ---
