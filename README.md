@@ -4,7 +4,7 @@
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alonso-daniel-quispe-huacho-41385a222/)
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alonsodaniel619@gmail.com)
-  [![GitHub](https://img.shields.io/badge/GitHub-181717? style=for-the-badge&logo=github&logoColor=white)](https://github.com/AlonsoDaniel159)
+  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AlonsoDaniel159)
 
 </div>
 
@@ -110,7 +110,7 @@ Breve descripción de tu tercer proyecto.
 
 ¿Tienes un proyecto interesante o una oportunidad laboral? ¡Me encantaría saber de ti! 
 
-📧 **Email:** alonsodaniel619@gmail.com 
+📧 **Email:** [alonsodaniel619@gmail.com]
 💼 **LinkedIn:** [alonso-daniel-quispe-huacho-41385a222](https://www.linkedin.com/in/alonso-daniel-quispe-huacho-41385a222)  
 🐙 **GitHub:** [@AlonsoDaniel159](https://github.com/AlonsoDaniel159)
 
