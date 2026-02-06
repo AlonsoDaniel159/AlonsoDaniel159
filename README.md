@@ -1,125 +1,105 @@
-<div align="center">
-  <h1>👋 Hola, Soy Alonso Daniel</h1>
-  <h3>Android Developer | Kotlin Enthusiast</h3>
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alonso-daniel-quispe-huacho-41385a222/)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alonsodaniel619@gmail.com)
-  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AlonsoDaniel159)
+# 👋 ¡Hola! Soy Alonso Daniel Quispe
 
-</div>
+## 🚀 Desarrollador Backend Java | Spring Boot Specialist
+
+Desarrollador backend apasionado por crear soluciones robustas y escalables. Especializado en el ecosistema Spring y arquitecturas de microservicios, con enfoque en la calidad del código y las mejores prácticas de desarrollo.
 
 ---
 
-## 👨‍💻 Sobre Mí
+## 💻 Stack Tecnológico
 
-Desarrollador Android apasionado por crear aplicaciones móviles nativas con **Kotlin**. Me especializo en arquitecturas modernas, código limpio y mejores prácticas de desarrollo. 
-
-**📍 Ubicación:** Perú 🇵🇪  
-**💼 Estado:** Buscando oportunidades laborales  
-**🎯 Enfoque:** Clean Code, MVVM, Material Design
-
----
-
-## 🛠️ Stack Tecnológico
-
-### Lenguajes & Frameworks
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+### Backend Core
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white)
+![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
-### Tecnologías Android
-- **Arquitectura:** MVVM, Clean Architecture (en aprendizaje)
-- **UI:** XML Layouts, View Binding, Material Design 3
-- **Listas:** RecyclerView, ListAdapter, DiffUtil
-- **Asíncrono:** Coroutines, Flow, LiveData
-- **Persistencia:** Room, DataStore, SharedPreferences
-- **Networking:** Retrofit, OkHttp, Gson
-- **Navegación:** Navigation Component, Fragments
-- **Inyección:** Hilt/Dagger (en aprendizaje)
+### Bases de Datos
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
-### Herramientas
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+### DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+### Otras Tecnologías
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![RESTful API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-FF6B6B?style=for-the-badge&logo=microgenetics&logoColor=white)
 
 ---
 
-## 📱 Proyectos Destacados
+## 🔥 Áreas de Expertise
 
-### 🗂️ **XML DataStore Manager**
-
-Aplicación para gestionar listas de países utilizando DataStore Preferences de Jetpack. 
-
-**Características:**
-- ✅ Persistencia de datos con DataStore Preferences
-- ✅ RecyclerView optimizado con ListAdapter y DiffUtil
-- ✅ View Binding para acceso type-safe a vistas
-- ✅ Operaciones asíncronas con Kotlin Coroutines
-- ✅ Diseño moderno con Material Design 3
-- ✅ Dialog personalizado para registro de usuario
-
-**Tecnologías:** `Kotlin` • `DataStore` • `RecyclerView` • `Coroutines` • `Material Design`
-
-[![Código](https://img.shields.io/badge/Código-181717?style=for-the-badge&logo=github&logoColor=white)](LINK_AL_REPO)
-[![APK](https://img.shields.io/badge/Descargar_APK-3DDC84?style=for-the-badge&logo=android&logoColor=white)](LINK_AL_APK)
+- 🏗️ **Arquitectura de Software**: Diseño de microservicios y APIs RESTful
+- 🔐 **Seguridad**: Implementación de autenticación y autorización con Spring Security y JWT
+- 📊 **Persistencia de Datos**: Optimización de consultas con JPA/Hibernate
+- 🐳 **Containerización**: Dockerización de aplicaciones Java
+- 🧪 **Testing**: Pruebas unitarias y de integración
+- 📝 **Clean Code**: Aplicación de principios SOLID y patrones de diseño
 
 ---
 
-### 📝 **[Proyecto #2]**
+## 📂 Proyecto Destacado
 
-Breve descripción de tu segundo proyecto. 
+### 🛒 Sales App - Sistema de Gestión de Ventas
 
-**Características:**
-- ✅ Feature 1
-- ✅ Feature 2
-- ✅ Feature 3
+**Backend robusto para la gestión integral de ventas**
 
-**Tecnologías:** `Kotlin` • `Room` • `MVVM` • `LiveData`
+**Tecnologías utilizadas:**
+- Spring Boot 3.x
+- Spring Data JPA
+- Spring Security + JWT
+- MySQL
+- Docker
+- Maven
 
-[![Código](https://img.shields.io/badge/Código-181717?style=for-the-badge&logo=github&logoColor=white)](LINK_AL_REPO)
-[![APK](https://img.shields.io/badge/Descargar_APK-3DDC84?style=for-the-badge&logo=android&logoColor=white)](LINK_AL_APK)
-
----
-
-### 🎯 **[Proyecto #3]**
-
-Breve descripción de tu tercer proyecto.
-
-**Características:**
-- ✅ Feature 1
-- ✅ Feature 2
-- ✅ Feature 3
-
-**Tecnologías:** `Kotlin` • `Retrofit` • `Glide` • `Navigation`
-
-[![Código](https://img.shields.io/badge/Código-181717?style=for-the-badge&logo=github&logoColor=white)](LINK_AL_REPO)
-[![APK](https://img.shields.io/badge/Descargar_APK-3DDC84?style=for-the-badge&logo=android&logoColor=white)](LINK_AL_APK)
+**Características principales:**
+- ✅ API RESTful completa para gestión de ventas
+- ✅ Autenticación y autorización con JWT
+- ✅ CRUD de productos, clientes y órdenes de venta
+- ✅ Gestión de inventario en tiempo real
+- ✅ Reportes de ventas y estadísticas
+- ✅ Dockerizado para fácil despliegue
+- ✅ Documentación de API
+- ✅ Manejo de transacciones y validaciones
 
 ---
 
-## 🎯 Actualmente
+## 📊 Estadísticas de GitHub
 
-- 🔭 **Trabajando en:** Proyectos de portafolio Android
-- 🌱 **Aprendiendo:** Jetpack Compose, Clean Architecture, Testing
-- 👯 **Buscando:** Oportunidades como Android Developer
-- 💬 **Pregúntame sobre:** Kotlin, Android, RecyclerView, Coroutines
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlonsoDaniel159&show_icons=true&theme=tokyonight)
 
----
-
-## 📫 Contacto
-
-¿Tienes un proyecto interesante o una oportunidad laboral? ¡Me encantaría saber de ti! 
-
-📧 **Email:** [alonsodaniel619@gmail.com]
-💼 **LinkedIn:** [alonso-daniel-quispe-huacho-41385a222](https://www.linkedin.com/in/alonso-daniel-quispe-huacho-41385a222)  
-🐙 **GitHub:** [@AlonsoDaniel159](https://github.com/AlonsoDaniel159)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlonsoDaniel159&layout=compact&theme=tokyonight)
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=AlonsoDaniel159&color=blueviolet&style=flat-square&label=Visitas+al+perfil" alt="Profile views"/>
-  
-  <br><br>
-    
-  <sub>💼 Abierto a oportunidades laborales</sub>
-</div>
+## 🌱 Actualmente aprendiendo
+
+- Arquitecturas de microservicios avanzadas
+- Spring Cloud (Config, Gateway, Eureka)
+- Kafka para mensajería asíncrona
+- Kubernetes para orquestación de contenedores
+- Clean Architecture y DDD
+
+---
+
+## 📫 Conecta conmigo
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alonsodaniel159)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AlonsoDaniel159)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alonsodaniel988@gmail.com)
+
+---
+
+## 💡 Quote
+
+> "El código limpio siempre parece que fue escrito por alguien a quien le importa." - Robert C. Martin
+
+---
+
+⭐️ From [AlonsoDaniel159](https://github.com/AlonsoDaniel159)
