@@ -46,7 +46,7 @@ Desarrollador backend apasionado por crear soluciones robustas y escalables. Esp
 
 ## 📂 Portafolio de Proyectos
 
-### 🛒 Sales App - Sistema de Gestión de Ventas
+### 🛒 Sales App - Sistema de Gestión de Ventas (En construcción)
 
 **Backend para la gestión integral de ventas**
 
