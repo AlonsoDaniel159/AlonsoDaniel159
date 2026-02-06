@@ -44,17 +44,17 @@ Desarrollador backend apasionado por crear soluciones robustas y escalables. Esp
 
 ---
 
-## 📂 Proyecto Destacado
+## 📂 Portafolio de Proyectos
 
 ### 🛒 Sales App - Sistema de Gestión de Ventas
 
-**Backend robusto para la gestión integral de ventas**
+**Backend para la gestión integral de ventas**
 
 **Tecnologías utilizadas:**
 - Spring Boot 3.x
 - Spring Data JPA
 - Spring Security + JWT
-- MySQL
+- PostgreSQL
 - Docker
 - Maven
 
@@ -70,17 +70,9 @@ Desarrollador backend apasionado por crear soluciones robustas y escalables. Esp
 
 ---
 
-## 📊 Estadísticas de GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlonsoDaniel159&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlonsoDaniel159&layout=compact&theme=tokyonight)
-
----
-
 ## 🌱 Actualmente aprendiendo
 
-- Arquitecturas de microservicios avanzadas
+- Arquitecturas de microservicios
 - Spring Cloud (Config, Gateway, Eureka)
 - Kafka para mensajería asíncrona
 - Kubernetes para orquestación de contenedores
@@ -95,11 +87,3 @@ Desarrollador backend apasionado por crear soluciones robustas y escalables. Esp
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alonsodaniel988@gmail.com)
 
 ---
-
-## 💡 Quote
-
-> "El código limpio siempre parece que fue escrito por alguien a quien le importa." - Robert C. Martin
-
----
-
-⭐️ From [AlonsoDaniel159](https://github.com/AlonsoDaniel159)
