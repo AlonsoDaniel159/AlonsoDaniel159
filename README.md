@@ -68,6 +68,8 @@ Desarrollador backend apasionado por crear soluciones robustas y escalables. Esp
 - ✅ Documentación de API
 - ✅ Manejo de transacciones y validaciones
 
+🔗 **[Ver repositorio](https://github.com/AlonsoDaniel159/sales-app)**
+
 ---
 
 ## 🌱 Actualmente aprendiendo
