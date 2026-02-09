@@ -33,9 +33,9 @@ Desarrollador backend apasionado por crear soluciones robustas y escalables. Esp
 
 ---
 
-## 🔥 Áreas de Expertise
+## Áreas
 
-- 🏗️ **Arquitectura de Software**: Diseño de microservicios y APIs RESTful
+- 🏗️ **Arquitectura de Software**: APIs RESTful y microservicios
 - 🔐 **Seguridad**: Implementación de autenticación y autorización con Spring Security y JWT
 - 📊 **Persistencia de Datos**: Optimización de consultas con JPA/Hibernate
 - 🐳 **Containerización**: Dockerización de aplicaciones Java
