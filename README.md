@@ -57,6 +57,7 @@ Desarrollador backend apasionado por crear soluciones robustas y escalables. Esp
 - PostgreSQL
 - Docker
 - Maven
+- JUnit + Mockito
 
 **Características principales:**
 - ✅ API RESTful completa para gestión de ventas
@@ -67,6 +68,7 @@ Desarrollador backend apasionado por crear soluciones robustas y escalables. Esp
 - ✅ Dockerizado para fácil despliegue
 - ✅ Documentación de API
 - ✅ Manejo de transacciones y validaciones
+- ✅ Pruebas unitarias de los componentes
 
 🔗 **[Ver repositorio](https://github.com/AlonsoDaniel159/sales-app)**
 
