@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Alonso Daniel Quispe
 
-## 🚀 Desarrollador Backend Java | Spring Boot Specialist
+## 🚀 Desarrollador Backend
 
 Desarrollador backend apasionado por crear soluciones robustas y escalables. Especializado en el ecosistema Spring y arquitecturas de microservicios, con enfoque en la calidad del código y las mejores prácticas de desarrollo.
 
